@@ -1,5 +1,9 @@
 "*":
   core:
     telemetryConsent: "no"
+    themes: [
+      "atom-light-ui"
+      "atom-light-syntax"
+    ]
   welcome:
     showOnStartup: false
