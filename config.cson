@@ -5,5 +5,11 @@
       "atom-light-ui"
       "atom-light-syntax"
     ]
+  editor:
+    showInvisibles: true
+  "exception-reporting":
+    userId: "35dfe842-c60d-4e80-b587-3b5065d164ac"
   welcome:
     showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
