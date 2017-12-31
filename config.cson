@@ -1,14 +1,20 @@
 "*":
   core:
+    excludeVcsIgnoredPaths: false
     telemetryConsent: "no"
     themes: [
-      "atom-light-ui"
-      "atom-light-syntax"
+      "atom-dark-ui"
+      "atom-dark-syntax"
     ]
   editor:
+    fontSize: 12
     showInvisibles: true
+    softWrap: true
   "exception-reporting":
     userId: "35dfe842-c60d-4e80-b587-3b5065d164ac"
+  "tree-view":
+     hideIgnoredNames: false
+     hideVcsIgnoredFiles: false
   welcome:
     showOnStartup: false
   whitespace:
